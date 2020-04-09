@@ -1,3 +1,8 @@
+## watch the tutorial in youtube
+
+- the see the backend using node an socket [back-end](https://github.com/yassssser/Real-time-chat-app-with-node-socker.io/tree/master)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
