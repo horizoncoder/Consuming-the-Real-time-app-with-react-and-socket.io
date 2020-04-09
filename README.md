@@ -1,5 +1,6 @@
 ## watch the tutorial in youtube
 
+- to learn how to create and deploy this chat app or see the demo (YasWeb)[https://www.youtube.com/watch?v=j75DzWBsCjQ&list=PL6WnVoBkDfDRJ-SA9Hi-1OpieUu11ZoUZ]
 - the see the backend using node an socket [back-end](https://github.com/yassssser/Real-time-chat-app-with-node-socker.io/tree/master)
 
 
